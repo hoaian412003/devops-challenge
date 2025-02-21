@@ -20,7 +20,7 @@
 
 ### Architecture Overview
 
-![enter image description here](src/problem2/Binance.drawio.png)
+![enter image description here](Binance.drawio.png)
 
 #### Details and Role
 
